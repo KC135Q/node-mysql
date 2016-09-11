@@ -1,0 +1,9 @@
+{
+  "name": "first-mysql",
+  "version": "0.0.1",
+  "description": "Connecting to mysql with node for the very first time",
+  "repository": ,
+  "dependencies": {
+  "mysql": ">=2.11.1"
+  }
+}
