@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# files containing sensitive information such as passwords, etc..
+connection.js
+
 # Runtime data
 pids
 *.pid

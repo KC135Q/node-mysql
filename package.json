@@ -2,7 +2,8 @@
   "name": "first-mysql",
   "version": "0.0.1",
   "description": "Connecting to mysql with node for the very first time",
-  "repository": ,
+  "repository": "https://github.com/KC135Q/node-mysql",
+  "license": "MIT",
   "dependencies": {
   "mysql": ">=2.11.1"
   }
